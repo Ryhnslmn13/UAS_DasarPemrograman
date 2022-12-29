@@ -1,11 +1,11 @@
 # Ujian Akhir Semester 
-<br> Mata Kuliah : Dasar Pemrograman
+Mata Kuliah : Dasar Pemrograman
 <br> Nama : Reyhan Salman Alhakim
 <br> NIM : 1227050115
 <br> Jurusan : [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-<br> 
+Soal UAS mata kuliah Dasar Pemrograman semester 1, membuat matrix dan transposenya serta mencari nilai yang bisa dibagi angka 3, 5, dan 7
 
 ## Source Code
 	  #include <iostream>
